@@ -1,7 +1,7 @@
 ** Make sure to pip install ansible, apt has an older copy **
 
 # Instructions
-* Start with Parrot HTB Edition
+* Start with Kali
 * Install Ansible (python3 -m pip install ansible --break-system-packages)
 * Install pipx (pip install --user pipx --break-system-packages; python3 -m pipx ensurepath)
 * Clone and enter the repo (git clone)
